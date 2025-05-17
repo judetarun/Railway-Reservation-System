@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224040144
+# Name:JUDE TARUN
+# Date:16/05/2025
 
 
 # AIM:
@@ -58,6 +58,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+![image](https://github.com/user-attachments/assets/b165f69d-fd7f-4e03-af37-657a21ef11b4)
 
 
 
@@ -121,6 +122,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+![image](https://github.com/user-attachments/assets/783c095e-c857-4b55-9ba6-e25e7142c0e8)
 
 
 
