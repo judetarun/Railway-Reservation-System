@@ -19,7 +19,6 @@ To develop the Railway Reservation System using Star UML.
 
 5.The system should allow users to easily search trains, reserve or cancel tickets, view PNR status, and receive confirmation through SMS/email while ensuring secure payment processing.
 
-UML DIAGRAMS
 
 UML DIAGRAMS
 
